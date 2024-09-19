@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\bin\Release\net8.0\TesteArquivos.exe
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\bin\Release\net8.0\TesteArquivos.deps.json
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\bin\Release\net8.0\TesteArquivos.runtimeconfig.json
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\bin\Release\net8.0\TesteArquivos.dll
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\bin\Release\net8.0\TesteArquivos.pdb
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\TesteArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\TesteArquivos.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\TesteArquivos.AssemblyInfo.cs
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\TesteArquivos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\TesteArquivos.dll
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\refint\TesteArquivos.dll
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\TesteArquivos.pdb
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\TesteArquivos.genruntimeconfig.cache
+C:\Users\pedro\source\repos\TesteArquivos\TesteArquivos\obj\Release\net8.0\ref\TesteArquivos.dll
